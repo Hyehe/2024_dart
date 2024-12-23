@@ -1,6 +1,6 @@
 void main() {
   // nullable - null이 될 수 있다.
-  // non-nullable - null이ㅣ 될 수 없다.
+  // non-nullable - null이 될 수 없다.
   // null - 아무런 값도 있지 않다.
 
   // String, int, double, boolean은 null 허용하지 않는다.

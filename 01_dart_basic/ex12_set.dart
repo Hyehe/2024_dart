@@ -3,7 +3,7 @@ void main() {
   Set<String> names = {'java', 'jsp', 'spring', 'react'};
   print(names);
 
-  // 중복 안됨
+  // 추가 시 중복 안됨
   print(names.add("jsp"));  // false
   print(names.add("dart"));  
   print(names);  
